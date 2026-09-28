@@ -3,8 +3,6 @@ Free TV
 
 This is an M3U playlist for free TV channels around the World.
 
-Either free locally (over the air):
-
 [<img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="24">](lists/usa.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="24">](lists/canada.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="24">](lists/uk.md)
@@ -93,16 +91,6 @@ Either free locally (over the air):
 [<img src="https://hatscripts.github.io/circle-flags/flags/ng.svg" width="24">](lists/nigeria.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/so.svg" width="24">](lists/somalia.md)
 
-Or free on the Internet:
-
-- Plex TV
-- Pluto TV (English, Spanish, French, Italian)
-- Redbox Live TV
-- Roku TV
-- Samsung TV Plus
-- Youtube live channels
-
-To use it point your IPTV player to https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8.
 
 Philosophy
 ==========
